@@ -1,4 +1,4 @@
-**#PowerBI_Project**
+**PowerBI_Project**
 
 This Power BI project provides an in-depth analysis of Remote Workforce Management, focusing on key HR metrics such as employee retention, reasons for departure, and workforce distribution. Leveraging interactive dashboards and data visualizations, the project helps stakeholders identify patterns, trends, and areas of improvement in managing a remote workforce.
 
